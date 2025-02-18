@@ -119,7 +119,7 @@ coverage==4.5.4
     # via
     #   -r requirements/test-tools.in
     #   codecov
-cryptography==42.0.4
+cryptography==44.0.1
     # via
     #   -r requirements/base.txt
     #   django-simple-certmanager
